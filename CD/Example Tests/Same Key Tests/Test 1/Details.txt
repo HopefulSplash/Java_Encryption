@@ -1,0 +1,47 @@
+run:
+================================================================
+User Password    : WorldWideNews
+Cipher Key       : KCFXPKUPQZQKG
+
+Original Text    :
+he praised his "gentle manner, combined with a steely determination only to offer high quality music making, which delivered so many remarkable performances and recordings."
+Encrpyted Text   :
+CMfYCVDWZGAaCCYMDeCGWPGPUGaHKOQQPYBYKF]YY\UQ`KCdTA[ESYGW[YZcWRQXWeEDgKQUKRdFMbOL[ENXNFfDK_KDUXYZHTYOSdQG]ZC\GJfQNbKNOWU[HDRCUbTIgPO[CYGTT[SP]UR]
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+run:
+================================================================
+User Password    : WorldWideNews
+Cipher Key       : KCFXPKUPQZQKG
+
+Original Text    :
+so, though i know nothing, or damn little, of the specific habits and sex acts of french presidents (when a french statesman thinks of having illicit love, his next thought is not "i must call gopnik to share my feelings and get his view") still, i do have a view about president hollande's recent activities, and his supposed tryst with the actor julie gayet.
+Encrpyted Text   :
+DUfQVdSA`OTgZM\DXWBDfTY`IXRTDWDJeJPfKRXXQ]UX\SKTYEVZXcBUUMO^KF\VU`JM`SCQTOcVE`LQdUX^KT^FJgJSPKYTMGbFAcSNOUFbCUQVKYNOYPOZUG`RHZYMaTZPFBOUMWPZZSZgDRgIB\JL[VDROD]YWgFDWYKXOVPHWQCF[EK_CQfYGUCUeHBgCDdRS[UGhKCMMYQZXcCYSYBSEH^OX[VNWIWYMBcFXUCJVRPMMXQNE]VC`GJcIOOQYVVTeQCVDAcXEgQXQYDQYWOEDSYUN
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+run:
+================================================================
+User Password    : WorldWideNews
+Cipher Key       : KCFXPKUPQZQKG
+
+Original Text    :
+teddy dolstra, from the friesland mammal working group, discovered its body during routine monitoring of a roost site on the north coast of the netherlands at the end of last year
+Encrpyted Text   :
+OFRIZQQKdDXcTB[VDUCTXQAZOW_JPZNDdNJVUY]EYbYT]XSODYRXPgUY`BQSEVVSGWYKfUWcMYTOYUDSYBAYOCSQMRXAUTOPYS`YSUED]LIfOUSNMOUWPXRQXGdIDgGZZWQ`QBZKHGIAWNNOI^O
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)
+

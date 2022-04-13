@@ -1,0 +1,14 @@
+run:
+================================================================
+User Password    : PoliceChange
+Cipher Key       : DCXUOQOTMZSQ
+
+Original Text    :
+its report said the federation had faced a "perfect storm" of challenges for its members, including job losses, pay being "held down", increased pension costs and changes to working conditions, as well as major policing reforms.
+Encrpyted Text   :
+[JT]VW_SGeSWQLRcEBhYLZBZgTURIFYUMeTBWZI\YC_APQJGdDPRXUQZTRJGWZP`YKXQI`UGcBTQDA[IH`TZdEI_YWOKTOIS[PQ]RGTSGeTITZPWIJRNFaCGYFT`VKRSG^BZcEEWEE\AMUJQgCTSFSQQV]VR`EP`YLhDX]UTgEVUYSVFKQFSZP]W
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)

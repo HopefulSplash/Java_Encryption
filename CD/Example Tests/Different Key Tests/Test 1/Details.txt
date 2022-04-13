@@ -1,0 +1,45 @@
+run:
+================================================================
+User Password    : ComputerScience
+Cipher Key       : OCYDIHQFGOUQZOQ
+
+Original Text    :
+early reports suggest that the contractor got hold of the giant trove of data thanks to the access korea credit bureau enjoys to databases run by three big south korean credit card firms. the contractor stole the data by copying it to a usb stick.
+Encrpyted Text   :
+RKWRU^IIhENSOLRPGaMEXROaQXaNY`SWeQTQJQeHNPUHcOBaKTeVR_QWSOIcYK_YGQEYUJOQYLdIMVPJVOPXKLUKX_IIbYFQJGfEDMKZ_LZfZVbTS_SUaXTLZAVAE]UV^ENUQS_OBORC`VCRLIQZYRHQXCJSVCQBIdZTbYWeACTJBYSYdZY_OBbQGcWI`INCUUcYG]PQ^
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+run:
+================================================================
+User Password    : ContractorHold
+Cipher Key       : OCZHFMOHCFTCXP
+
+Original Text    :
+early reports suggest that the contractor got hold of the giant trove of data thanks to the access korea credit bureau enjoys to databases run by three big south korean credit card firms. the contractor stole the data by copying it to a usb stick.
+Encrpyted Text   :
+PJSVG_PWbTVLWSaPX`CRaDTgCKaTYWKQVHO_MHNYHhTJRJHSJTPKFgOOdPCUFRYCXbQRdFZdRIbQBUKMdFPeZY`GG^YCXFFdHERVI[SJfGKhDAbPJgBCaGLXLXUJQ[JO^QHVHPbMVSHMWMNUJDZVMaCPcQMLEQ`ALXMTTYCTHH_VBOZGOYVVVFdZDWUJ^UMCQWaDDaQb^
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+run:
+================================================================
+User Password    : KoreaCredit
+Cipher Key       : VZGPLNGPOTI
+
+Original Text    :
+early reports suggest that the contractor got hold of the giant trove of data thanks to the access korea credit bureau enjoys to databases run by three big south korean credit card firms. the contractor stole the data by copying it to a usb stick.
+Encrpyted Text   :
+QBOBL^HA\ZIeHBdBMSUPUQGaVLfVIVYZWYQXBVZGZOZRYGOLFFfLQQPI^DLfFRbNPRUJQBNQHMaMTYQCPRPNAERTYhWIXOScGD\UITMN]TXVMIZCZhVObXBaHYRXKbSWeBEVQMdPMZIG_QDYUJeMHQGV`TN^AWeZD\GZaXN]KTTITMNT\SOWAHTYR`VA`NBZCEYEJOXVe
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)

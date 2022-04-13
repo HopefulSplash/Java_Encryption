@@ -1,0 +1,14 @@
+run:
+================================================================
+User Password    : mothercourt
+Cipher Key       : XZISPGNZJGI
+
+Original Text    :
+ms kular and her five children had previously lived at the address. a neighbour told the bbc that mikaeel and his twin sister were born while the family was living there.
+Encrpyted Text   :
+KGbPSRVOSHYdPOUKFcGOOUZbDQUTVcXA`XT]ZD\AOPMVQIK\GAdGURRGeAUaXPhLAZKWZLKZBXONO\VA[MXLYN_QJ^WP^QIXNUdRNOATZQB\QCUPZdDOZRRRPKYAN_BPRWZSGA[SUU
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)

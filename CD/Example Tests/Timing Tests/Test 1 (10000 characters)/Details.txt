@@ -1,0 +1,9 @@
+run:
+================================================================
+User Password    : TimeTesting
+Cipher Key       : ITXPIPHITYR
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)

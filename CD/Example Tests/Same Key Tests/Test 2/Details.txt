@@ -1,0 +1,46 @@
+run:
+================================================================
+User Password    : Technology
+Cipher Key       : JOMRXYVYQO
+
+Original Text    :
+people suffering from the condition need to monitor their glucose levels regularly as sudden spikes or drops are dangerous. at present, the majority of them do so by testing drops of blood.
+Encrpyted Text   :
+AQAZYTE_KMZUSPRHWCObYFSCMOUFZDL^FWOCZdHCSKFPNG`PK`XJUCA^WLdBBWMGdCHPMM^VWbYGRCYPRJPOHhHYUSDaDGcSLQGC[FOWUUVGZQQIOHRPEKURAdQBeCY]DBYFOaQHNMMRDEcFNSVS\CIUA_d
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 
+
+
+run:
+================================================================
+User Password    : Technology
+Cipher Key       : JOMRXYVYQO
+
+Original Text    :
+the attack is believed to be one of the first to exploit the lax security on devices that are part of the "internet of things".
+Encrpyted Text   :
+RWLRFQeAHYBHQOLTVTSOCXPV\BIXHJdJQhAFXQReCO`DP]TQUGOPCC]QZOZYZUMZRPWUT\VJOJCYFQ^XH_CQQFC_PBVAAdRQ`QbN
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)
+seconds)
+
+run:
+================================================================
+User Password    : Technology
+Cipher Key       : JOMRXYVYQO
+
+Original Text    :
+the company had, till three months ago, backed its initial forecasts for wii u sales despite setbacks in markets such as the uk.
+Encrpyted Text   :
+eINaJQdFZZEGNSA^VKYZEdLO`RZ_BK`DBaTQhJXUGW`KH[AQ\JM_NFSDGdFKcBRUJGdCHbMPfUQ\CRYFYaNFcRGXFK^OQVDYYKLbQXN
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)

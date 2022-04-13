@@ -1,0 +1,7 @@
+The report can be found in the folder "CSS Report"
+
+The source code for the software can be found in the folder "Source Code for Software"
+
+The executable version of the software can be found in the folder "Executable for Sfotware"
+
+The example test plain files and resulting ciphertext files can be found in the folder "Example Text" 

@@ -1,0 +1,45 @@
+run:
+================================================================
+User Password    : AmericaObama
+Cipher Key       : MYQFUOMCNMYM
+
+Original Text    :
+mr obama is expected to leave the decision as to how that is implemented to congress and the intelligence community.
+Encrpyted Text   :
+KRcAWdAIVUAhQE`YN_HH\UFQPL[FU_FA^EAOFB_GP\AY_FKcEGQNJTKI[ERPMLOVUcQYTUFTQT[RNLHXXJA_BVPFK[AUUE\d
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+run:
+================================================================
+User Password    : intelligence
+Cipher Key       : UZHQXXUSQZOQ
+
+Original Text    :
+mr obama is expected to leave the decision as to how that is implemented to congress and the intelligence community.
+Encrpyted Text   :
+OHVDMRJLaLBVUUSBDgQKgLGYTBhIKgODOVBWJRRJFdJBPWLQIW^QZ\TLfVSXQB\YKQZB_LG\UJhUDTQAcABgFLQIAcJX`VOR
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+run:
+================================================================
+User Password    : NationalsecurityAGENCY
+Cipher Key       : ZMHUCZMXGQOIFUHMMSQZOM
+
+Original Text    :
+mr obama is expected to leave the decision as to how that is implemented to congress and the intelligence community.
+Encrpyted Text   :
+VFVPO_YN]SBRWS`SFXBBgKEQCPcZERDUXEUOFKgYV^CKWBLYMPQZTVVEhAFeUSeWI]ZQNGBOQU[SKPLP_AWXXLDYF[LCdV`W
+
+File Input From  : C:\PlainTextFile.txt
+File Output To   : C:\CipherTextFile.txt
+================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)
